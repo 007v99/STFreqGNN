@@ -1,0 +1,9 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# 日志
+*.log
+
+# 本地配置或数据库
+.env
