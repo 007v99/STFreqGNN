@@ -3,7 +3,7 @@
 ## Paper
 [**A UNIFIED SPATIOTEMPORAL FREQUENCY GRAPH NEURAL NETWORK FOR FMRI-BASED BRAIN FUNCTIONAL CONNECTIVITY ANALYSIS**](https://ieeexplore.ieee.org/abstract/document/10890520) \
 Yulang Huang, Zhiyuan Ding and others \
-presented at *ICASSP 2025* \
+presented at *ICASSP 2025*
 
 
 ## Concept
